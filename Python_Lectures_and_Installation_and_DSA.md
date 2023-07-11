@@ -2,7 +2,7 @@ Reading Material
 
 -> Python Complete - https://youtu.be/_uQrJ0TkZlc
 
--> Pandas Complete - https://www.youtube.com/vmEHCJofslg
+-> Pandas Complete - [https://www.youtube.com/vmEHCJofslg](https://www.youtube.com/watch?v=vmEHCJofslg)
 
 --------------------------------------------------------------------
 
